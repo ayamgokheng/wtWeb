@@ -20,7 +20,7 @@ while True:
 		print("Force accessing website...")
 		time.sleep(5)
 		print("looking for weakness...")
-		time.slee(6)
+		time.sleep(6)
 		for i in range(1, 101, 1):
 			print("hacking...", str(i) + "%")
 			i += 1
